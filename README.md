@@ -1,4 +1,4 @@
-# Ссылка на датасет на котором обучена нейронная сеть: https://disk.yandex.ru/d/ZbxfknsLxiIabw
+# Ссылка на датасет на котором обучена нейронная сеть для определения типа графика: https://disk.yandex.ru/d/ZbxfknsLxiIabw
 
 # Ссылка на датасет для сегментации изображний: https://disk.yandex.ru/d/ZbxfknsLxiIabw
 
